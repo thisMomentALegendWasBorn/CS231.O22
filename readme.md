@@ -1,4 +1,4 @@
-## **CS231.O22**
+## **CS231.O22 - NHẬP MÔN THỊ GIÁC MÁY TÍNH**
 * **MSSV**: 22521266
 * **FullName**: Trần Giang Sử
 * **Report project** 
