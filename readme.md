@@ -7,4 +7,4 @@
 * **get_annotate** : Chuyển từ file .csv sang thành file .txt để training
 * **train_frcnn.py** : File để thực hiện training (cần có file weights của vgg16 nếu training lần đầu (có thể tìm trên mạng) hoặc file trainedweights đã huấn luyện mô hình từ trước
 * **test_frcnn.py** : File dùng để thực hiện dự đoán (phân loại tế bào máu + xác định bounding box) của các tế bào máu có trong input
-  
+* **requires.txt** : danh sách các lib/framework cần cài để có thể chạy code này
